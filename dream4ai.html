@@ -681,7 +681,7 @@ window.runAlgorithm = async function() {
 
   const outEl = document.getElementById('final-output');
   outEl.textContent = '';
-  outEl.style.color = '';
+  outEl.style.removeProperty('color');
   const cursor = document.createElement('span');
   cursor.className = 'blink';
   cursor.textContent = '█';

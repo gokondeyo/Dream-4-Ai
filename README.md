@@ -1,4 +1,4 @@
-# Dream-4-AI: Finding Structure by Deleting the Unnecessary, Inspired by Stalin Sort
+# Dream-4-AI: Rebuilding Language with Stalin Sort
 
 
 > Not a text generator.  

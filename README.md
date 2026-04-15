@@ -111,7 +111,7 @@ It is told to build something from the rubble.
 
 That “something” is the point.
 
-⸻
+---
 
 Features
 	•	step-by-step visualization of every destruction stage
@@ -121,7 +121,7 @@ Features
 	•	typewriter-style output
 	•	Gemini API integration for neural reconstruction
 
-⸻
+---
 
 Setup
 	1.	Get a free Gemini API key from aistudio.google.com￼
@@ -132,7 +132,7 @@ Setup
 The API key is never stored.
 It is sent directly to generativelanguage.googleapis.com.
 
-⸻
+---
 
 Example
 
@@ -151,7 +151,7 @@ They are ill — straight, pretty, distinctive.
 The original sentence is gone.
 Good.
 
-⸻
+---
 
 Design Notes
 	•	Sometimes the reconstruction model drops even more survivor words. This is intentional. The system accepts that as a second purge.
@@ -159,7 +159,7 @@ Design Notes
 	•	This project treats information loss as a generative mechanism, not a defect.
 	•	The algorithm is deterministic until you inject noise or hand the remains to a neural model. After that, it starts dreaming.
 
-⸻
+---
 
 Philosophy
 
@@ -172,14 +172,14 @@ This is not an assistant.
 It is not trying to help.
 It is a machine for making language fall apart in interesting ways.
 
-⸻
+---
 
 Authors
 	•	gokondeyo — original algorithm, design, implementation
-	•	Claude Sonnet 4.6 (Anthropic) — implementation support
+	•	Claude Sonnet 4.6 (Anthropic) — implementation support(yes. it's vibe-coded product!)
 	•	Gemini 2.5 Flash (Google) — reconstruction engine
 
-⸻
+---
 
 License
 

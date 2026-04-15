@@ -76,7 +76,7 @@ Tokens are rearranged into a crude grammatical scaffold:
 ```text
 VERB → NOUN_CHUNK → OTHER
 
-This gives the wreckage just enough structure to be destroyed consistently.
+This gives the wreckage just enough structure to be destroyed consistently.```
 
 Stage 4 — Score Calculation
 

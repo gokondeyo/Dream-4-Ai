@@ -5,7 +5,7 @@
 > A language demolition device.  
 > Feed it meaning, and it returns dream debris.
 
-**Live Demo:** [zizonhyeontae218.github.io/Dream-4-Ai/dream4ai.html](https://kCHT.github.io/Dream-4-Ai/dream4ai.html)
+**Live Demo:** [zizonhyeontae218.github.io/Dream-4-Ai/dream4ai.html](https://zizonhyeontae218.github.io/Dream-4-Ai/dream4ai.html)
 
 ---
 
